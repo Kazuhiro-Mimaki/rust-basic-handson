@@ -4,5 +4,6 @@ members = [
     "cat_2",
     "explain_move",
     "grep_1",
-    "grep_2"
+    "grep_2",
+    "grep_3",
 ]
