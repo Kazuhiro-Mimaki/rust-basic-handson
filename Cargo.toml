@@ -8,4 +8,5 @@ members = [
     "grep_3",
     "grep_4",
     "grep_5",
+    "grep_6",
 ]
