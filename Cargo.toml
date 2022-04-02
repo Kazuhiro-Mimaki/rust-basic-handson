@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "cat_1",
+    "cat_2",
+    "explain_move",
+    "grep_1",
+]
